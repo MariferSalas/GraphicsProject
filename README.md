@@ -2,8 +2,8 @@
 Proyecto final para la clase de Gráficas Computacionales
 
 # Equipo
-Mariafernanda Salas Martínez
-Ana Lizbeth Zermeño Torres
+Mariafernanda Salas Martínez //
+Ana Lizbeth Zermeño Torres //
 Joel Hiram Chávez Verástegui
 
 # ¿Qué es el proyecto?
