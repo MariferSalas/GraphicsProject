@@ -1,5 +1,10 @@
 # GraphicsProject
-Proyecto final para la clase de Gráficas Computacionales - equipo
+Proyecto final para la clase de Gráficas Computacionales
+
+# Equipo
+Mariafernanda Salas Martínez
+Ana Lizbeth Zermeño Torres
+Joel Hiram Chávez Verástegui
 
 # ¿Qué es el proyecto?
 El proyecto consiste en una imagen 3D de un Agujero Negro. El agujero negro tendrá su luz alrededor girando y además tendrá la luz justo por el centro. Algo como la imagen a continuación:
