@@ -9,3 +9,6 @@ El agujero negro será el centro del proyecto. Alrededor de esto estarán galaxi
 
 # ¿Qué herramienta se estará utilizando?
 El proyecto se estará realizando en Unity, con el repositorio ubicado en GitHub.
+
+# ¿Cómo visualizar el agujero negro?
+El proyecto se realizó con la versión 2019.3.10 de Unity por lo cual, si se tiene una versión posterior se deberá instalar el editor indicado con esa versión para poder visualizarlo.
